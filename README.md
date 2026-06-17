@@ -1,7 +1,3 @@
-### Repository Description
-
-> A PowerShell script to automatically add the Code::Blocks MinGW compiler to the Windows user environment Path, allowing you to compile C++ code directly from the terminal or other IDEs without manual configuration.
-
 ---
 
 # set-compiler-path
