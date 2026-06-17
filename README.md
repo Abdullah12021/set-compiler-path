@@ -4,9 +4,6 @@
 
 ---
 
-### `README.md`
-
-```markdown
 # set-compiler-path
 
 A lightweight PowerShell script designed for university students and developers to automate setting up the C++ compiler environment path.
