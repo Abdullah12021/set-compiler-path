@@ -50,7 +50,3 @@ g++ --version
 ```
 
 If you see version details, your compiler is ready to use from any terminal!
-
-```
-
-```
